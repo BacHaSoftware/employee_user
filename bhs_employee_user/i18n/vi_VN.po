@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* bh_employee_user
+# 	* bhs_employee_user
 #
 msgid ""
 msgstr ""
@@ -15,12 +15,12 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: bh_employee_user
-#: model:ir.model,name:bh_employee_user.model_hr_applicant
+#. module: bhs_employee_user
+#: model:ir.model,name:bhs_employee_user.model_hr_applicant
 msgid "Applicant"
 msgstr "Ứng viên"
 
-#. module: bh_employee_user
-#: model:ir.model,name:bh_employee_user.model_hr_employee
+#. module: bhs_employee_user
+#: model:ir.model,name:bhs_employee_user.model_hr_employee
 msgid "Employee"
 msgstr "Nhân viên"
