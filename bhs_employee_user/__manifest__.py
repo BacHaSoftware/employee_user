@@ -1,6 +1,6 @@
 {
     'name': "Auto create user from employee",
-    'version': '15.0.1.0.0',
+    'version': '1.0',
     'description': """
        Automatically create a new user from a new employee 
     """,
@@ -11,10 +11,10 @@
     'category': 'Human Resources',
     'depends': ['hr', 'hr_recruitment'],
     'data': [
-         'views/applicant_employee_view.xml'
+        'views/hr_views.xml',
     ],
     'images': ['static/description/banner.gif'],
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'installable': True,
     'application': True
 }
